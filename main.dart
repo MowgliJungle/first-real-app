@@ -12,6 +12,8 @@ class MyApp extends StatefulWidget {
   }
 }
 
+// hahah
+
 class MyAppState extends State<MyApp> {
   // state is generic type -> angel brackets, MyApp is a pointer
   var questionIndex = 0; // dynamic variable as property (class wide)
